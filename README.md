@@ -1,5 +1,6 @@
 # MedCentral
-Laravel Project For A Medical Centre Online System
+Laravel Project For A Fake Medical Centre Online System
+Built as an assignment for a Web Application Frameworks module.
 
 Doctors and Patients dont have access rights to the system admins do.
 Admins can view, update and delete Doctors, Patients and Visits.
